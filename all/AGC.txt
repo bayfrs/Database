@@ -2,4 +2,4 @@ Kode yang di butuhkan :
 /atom.xml?redirect=false&start-index=1&max-results=500
 
 contoh penggunaan:
-https://9to5linux.com/atom.xml?redirect=false&start-index=1&max-results=500
+https://mastamvan.blogspot.com/atom.xml?redirect=false&start-index=1&max-results=500
