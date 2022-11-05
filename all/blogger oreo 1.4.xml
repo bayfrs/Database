@@ -103,10 +103,10 @@
 <meta content='XXXXX' property='fb:admins'/>
 <meta content='XXXXX' property='fb:profile_id'/>
 <meta content='XXXXX' property='fb:pages'/>
-<meta content='id' name='geo.country'/>
+<meta content='US' name='geo.country'/>
 <meta content='id_ID' property='og:locale'/>
 <meta content='en_US' property='og:locale:alternate'/>
-<meta content='Indonesia' name='geo.placename'/>
+<meta content='united ' name='geo.placename'/>
 <meta content='general' name='rating'/>
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
 <meta expr:content='data:blog.pageName' property='og:image:alt'/>
