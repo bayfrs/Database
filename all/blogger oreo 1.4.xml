@@ -106,7 +106,7 @@
 <meta content='US' name='geo.country'/>
 <meta content='id_ID' property='og:locale'/>
 <meta content='en_US' property='og:locale:alternate'/>
-<meta content='united states' name='geo.placename'/>
+<meta content='united state' name='geo.placename'/>
 <meta content='' name='Author'/>
 <meta content='general' name='rating'/>
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
