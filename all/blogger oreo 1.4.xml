@@ -28,7 +28,7 @@
 </b:if>
 <meta content='blogger' name='generator'/>
 <link href='https://www.blogger.com/openid-server.g' rel='openid.server'/>
-<link href='https://recipesbae.blogspot.com' hreflang='x-default' rel='
+<link href='https://recipesbae.blogspot.com' hreflang='x-default' rel='alternate'/>
 <link expr:href='data:blog.homepageUrl' rel='openid.delegate'/>
 <link expr:href='data:blog.url.canonical' rel='canonical'/>
 <link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
